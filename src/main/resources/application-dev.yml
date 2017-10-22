@@ -1,0 +1,6 @@
+server:
+  port: 8080
+people:
+  name: gjw-dev
+  age: 23
+  content: "name:${name},age:${age}"

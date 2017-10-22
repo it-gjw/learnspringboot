@@ -1,0 +1,6 @@
+server:
+  port: 8082
+people:
+  name: gjw-prod
+  age: 23
+  content: "name:${name},age:${age}"
